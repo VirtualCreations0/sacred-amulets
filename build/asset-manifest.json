@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b3fc77.chunk.css",
+    "main.js": "/static/js/main.7b99328b.chunk.js",
+    "main.js.map": "/static/js/main.7b99328b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c0be62a3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c0be62a3.js.map",
+    "static/css/2.e00682b0.chunk.css": "/static/css/2.e00682b0.chunk.css",
+    "static/js/2.f9f5f88a.chunk.js": "/static/js/2.f9f5f88a.chunk.js",
+    "static/js/2.f9f5f88a.chunk.js.map": "/static/js/2.f9f5f88a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e00682b0.chunk.css.map": "/static/css/2.e00682b0.chunk.css.map",
+    "static/css/main.e6b3fc77.chunk.css.map": "/static/css/main.e6b3fc77.chunk.css.map",
+    "static/js/2.f9f5f88a.chunk.js.LICENSE.txt": "/static/js/2.f9f5f88a.chunk.js.LICENSE.txt",
+    "static/media/RobotClub.css": "/static/media/cour.e3dffe6f.ttf",
+    "static/media/background1.c1392674.png": "/static/media/background1.c1392674.png",
+    "static/media/degen.6621ee5d.png": "/static/media/degen.6621ee5d.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0be62a3.js",
+    "static/css/2.e00682b0.chunk.css",
+    "static/js/2.f9f5f88a.chunk.js",
+    "static/css/main.e6b3fc77.chunk.css",
+    "static/js/main.7b99328b.chunk.js"
+  ]
+}
